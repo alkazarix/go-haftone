@@ -26,9 +26,9 @@ example of result:
 
 | Filter|  Input  |  Output |
 |:--:|:--:|:--:|
-|bayer|<img src="./input/papillon.jpeg" height="200">|<img src="./input/bayer2.png" height="200">|
-|bayer2|<img src="./input/papillon.jpeg" height="200">|<img src="./input/bayer2.png" height="200">|
-|bayer4|<img src="./input/papillon.jpeg" height="200">|<img src="./input/bayer4.png" height="200">|
+|bayer|<img src="./input/papillon.jpeg" height="200">|<img src="./output/bayer2.png" height="200">|
+|bayer2|<img src="./input/papillon.jpeg" height="200">|<img src="./output/bayer2.png" height="200">|
+|bayer4|<img src="./input/papillon.jpeg" height="200">|<img src="./output/bayer4.png" height="200">|
 
 
 
